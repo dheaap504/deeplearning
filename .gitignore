@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Dataset yang diunduh otomatis saat latih ulang
+data/
+
+# IDE
+.vscode/
+.idea/
