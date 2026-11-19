@@ -1,0 +1,11 @@
+# PyTorch versi CPU (jauh lebih kecil dari versi GPU, cocok untuk Streamlit Community Cloud)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+easyocr>=1.7.2
+streamlit>=1.50
+opencv-python-headless
+pillow
+numpy
+pandas
+plotly
